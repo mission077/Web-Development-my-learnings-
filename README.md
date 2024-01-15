@@ -1,4 +1,4 @@
-Repository Name: HTML-CSS-Fundamentals-Learning
+Repository Name: Web-Development-my-learnings
 
 Description:
 Welcome to my learning journey in mastering the fundamental aspects of HTML and CSS! This repository serves as a comprehensive record of my exploration and understanding of these crucial web development technologies.
